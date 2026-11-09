@@ -13,7 +13,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 <a href="https://rust-lang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/rust-lang/rust-artwork/7b54b6689dc310db2f301d7bcda847f016bd447c/mascot/ferris-flat-happy.svg" alt="rust" width="45" height="45" /> </a> 
-<a href="https://developer.android.com/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303175/android-logo.svg" alt="kotlin" width="45" height="45" /> </a> 
+<a href="https://developer.android.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d7/Android_robot.svg" alt="android" width="45" height="45" /> </a> 
 <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="45" height="45" /> </a>
 <a href="https://developer.android.com/compose" target="_blank" rel="noreferrer"> <img src="https://pnglogo.sgp1.digitaloceanspaces.com/devicon/jetpackcompose-original.svg" alt="Jetpack Compose" width="45" height="45" /> </a>
 <a href="https://www.postman.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a> 
